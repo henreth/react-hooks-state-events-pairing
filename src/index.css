@@ -10,3 +10,14 @@ body {
 .App {
   text-align: center;
 }
+
+.comment-button {
+  margin: 0 auto;
+  margin-top: 10px;
+  display: block;
+  text-align: center;
+}
+
+.hidden {
+  visibility: hidden;
+}
